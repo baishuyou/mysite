@@ -1,0 +1,4 @@
+python manger.py makemigrations
+python manager.py migrate
+
+html css 然后jQuery 还有highchart或者echart
